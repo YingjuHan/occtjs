@@ -1,0 +1,9 @@
+{
+  "name": "occtjs",
+  "version": "0.1.0",
+  "description": "A port of the OpenCascade CAD library to JavaScript and WebAssembly for Web browser.",
+  "main": "dist/",
+  "author": "HUA <ztrsw@126.com>",
+  "license": "LGPL-2.1-only",
+  "type": "module"
+}
